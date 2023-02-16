@@ -22,7 +22,7 @@ export default {
 <style scoped>
   .header {
     width: 100%;
-    height: 0px;
+    height: 200px;
     background-color: rgb(137, 27, 2, 0.2) ;
     z-index: 150;
     position: absolute;
